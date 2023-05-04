@@ -1,0 +1,10 @@
+{
+	"program": "rockpaperscissors.aleo",
+	"version": "0.0.0",
+	"description": "The Rock Paper Scissors game built on Leo Language.",
+	"development": {
+		"private_key": "",
+		"address": ""
+	},
+	"license": "MIT"
+}
